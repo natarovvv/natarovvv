@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Illia Natarov
+- 🌱 I’m currently learning MERN STACK
+- 💬 Ask me about Next.js, React.js, JavaScript
+- 📫 Reach me on natarovmebel@gmail.com
